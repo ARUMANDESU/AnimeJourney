@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AnimeJourney</string>
+    <!-- Tips for January -->
+    <string name="tip1_title">Start with Studio Ghibli</string>
+    <string name="tip1_month">January</string>
+    <string name="tip1_description">Begin your anime journey with the enchanting movies from Studio Ghibli.</string>
+
+    <!-- Tips for February -->
+    <string name="tip2_title">Explore Romance Anime</string>
+    <string name="tip2_month">February</string>
+    <string name="tip2_description">Delve into heartwarming romance anime like \'Your Lie in April\' or \'Toradora!\'.</string>
+
+    <!-- Tips for March -->
+    <string name="tip3_title">Discover the World of \'Shonen\' Anime</string>
+    <string name="tip3_month">March</string>
+    <string name="tip3_description">Get your dose of action and adventure by exploring \'shonen\' anime like \'Naruto\' and \'Dragon Ball\'.</string>
+
+    <!-- Tips for April -->
+    <string name="tip4_title">Embrace Spring with \'Slice of Life\' Anime</string>
+    <string name="tip4_month">April</string>
+    <string name="tip4_description">As spring blooms, watch \'slice of life\' anime that captures everyday experiences and emotions.</string>
+
+    <!-- Tips for May -->
+    <string name="tip5_title">Anime Movies Marathon</string>
+    <string name="tip5_month">May</string>
+    <string name="tip5_description">Use May to catch up on anime movies. Explore classics like \'Akira,\' \'Ghost in the Shell,\' and \'Grave of the Fireflies\' for a cinematic anime experience.</string>
+
+    <!-- Tips for June -->
+    <string name="tip6_title">Science Fiction and Fantasy Anime</string>
+    <string name="tip6_month">June</string>
+    <string name="tip6_description">Welcome the summer with sci-fi and fantasy anime. Series like \'Steins;Gate\' and \'Fullmetal Alchemist\' offer intriguing worlds and epic adventures.</string>
+
+    <!-- Tips for July -->
+    <string name="tip7_title">Enjoy Light-Hearted Comedy</string>
+    <string name="tip7_month">July</string>
+    <string name="tip7_description">Beat the summer heat with light-hearted comedy anime. \'Gintama\' and \'Nichijou\' will keep you laughing throughout July.</string>
+
+    <!-- Tips for August -->
+    <string name="tip8_title">Dive into \'Isekai\' (Otherworld) Anime</string>
+    <string name="tip8_month">August</string>
+    <string name="tip8_description">August is the perfect time to escape into \'isekai\' anime, where characters are transported to other worlds. Watch \'Re:Zero\' or \'No Game No Life\' for thrilling adventures.</string>
+
+    <!-- Tips for September -->
+    <string name="tip9_title">Back-to-School Anime</string>
+    <string name="tip9_month">September</string>
+    <string name="tip9_description">As the school year begins, watch anime set in a school environment. Classics like \'The Melancholy of Haruhi Suzumiya\' and \'Death Note\' are must-sees.</string>
+
+    <!-- Tips for October -->
+    <string name="tip10_title">Get Spooked with Horror Anime</string>
+    <string name="tip10_month">October</string>
+    <string name="tip10_description">Celebrate Halloween with spooky and suspenseful horror anime. \'Another\' and \'Tokyo Ghoul\' will send shivers down your spine.</string>
+
+    <!-- Tips for November -->
+    <string name="tip11_title">Explore Mecha Anime</string>
+    <string name="tip11_month">November</string>
+    <string name="tip11_description">November is the time for mecha anime, featuring giant robots. Try \'Neon Genesis Evangelion\' or \'Code Geass\' to experience intense battles.</string>
+
+    <!-- Tips for December -->
+    <string name="tip12_title">Anime Classics Marathon</string>
+    <string name="tip12_month">December</string>
+    <string name="tip12_description">End the year with a marathon of anime classics. Revisit timeless series like \'Cowboy Bebop,\' \'Trigun,\' and \'Neon Genesis Evangelion\' to reflect on your anime journey.</string>
+</resources>
