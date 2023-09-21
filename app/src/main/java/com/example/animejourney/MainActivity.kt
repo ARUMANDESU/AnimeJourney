@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            AnimeJourneyTheme {
+            AnimeJourneyTheme (dynamicColor = true){
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
@@ -52,12 +52,13 @@ fun AnimeJourneyApp(){
             items(AnimeTipsRepository.allTips){
                 AnimeTipItem(
                     tip = it,
-                    modifier = Modifier.padding(
+                    modifier = Modifier
+                        .padding(
                         start = dimensionResource(R.dimen.padding_small),
                         end = dimensionResource(R.dimen.padding_small),
                         top = dimensionResource(R.dimen.padding_small),
                         bottom = dimensionResource(R.dimen.padding_small),
-                    )
+                        )
                 )
             }
         }
