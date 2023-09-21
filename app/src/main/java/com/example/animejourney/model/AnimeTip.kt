@@ -2,7 +2,6 @@ package com.example.animejourney.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import androidx.compose.ui.res.stringResource
 import com.example.animejourney.R
 
 data class AnimeTip (
@@ -14,7 +13,7 @@ data class AnimeTip (
 
 
 object AnimeTipsRepository {
-    val allTips = listOf<AnimeTip>(
+    val allTips = listOf(
         AnimeTip(
             monthRes = R.string.tip1_month,
             tipRes = R.string.tip1_title,
